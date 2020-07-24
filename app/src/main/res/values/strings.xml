@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestBaseUtils</string>
+    <string name="example_text">This is some text on the screen.</string>
+</resources>
